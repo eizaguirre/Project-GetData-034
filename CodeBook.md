@@ -285,29 +285,71 @@ Variable type: numeric
 Comments: Mean of the values from the variable fBodyAccJerk-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyGyroscopeMeanX 
+Variable: FrequencyBodyGyroscopeMeanX
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyGyro-mean()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyGyroscopeMeanY 
+Variable: FrequencyBodyGyroscopeMeanY
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyGyro-mean()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyGyroscopeMeanZ 
+Variable: FrequencyBodyGyroscopeMeanZ
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyGyro-mean()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyGyroscopeStandardDeviationX 
+Variable: FrequencyBodyGyroscopeStandardDeviationX
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyGyro-std()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyGyroscopeStandardDeviationY 
+Variable: FrequencyBodyGyroscopeStandardDeviationY
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyGyro-std()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyGyroscopeStandardDeviationZ 
+Variable: FrequencyBodyGyroscopeStandardDeviationZ
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyGyro-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyAccelerometerMagnitureMean 
+Variable: FrequencyBodyAccelerometerMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyAccMag-mean() aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyAccelerometerMagnitureStandardDeviation 
+Variable: FrequencyBodyAccelerometerMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyAccMag-std() aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyBodyAccelerometerJerkMagnitureMean 
+Variable: FrequencyBodyBodyAccelerometerJerkMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyBodyAccJerkMag-mean() aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyBodyAccelerometerJerkMagnitureStandardDeviation 
+Variable: FrequencyBodyBodyAccelerometerJerkMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyBodyAccJerkMag-std() aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyBodyGyroscopeMagnitureMean 
+Variable: FrequencyBodyBodyGyroscopeMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyBodyGyroMag-mean() aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyBodyGyroscopeMagnitureStandardDeviation 
+Variable: FrequencyBodyBodyGyroscopeMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyBodyGyroMag-std() aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyBodyGyroscopeJerkMagnitureMean 
+Variable: FrequencyBodyBodyGyroscopeJerkMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyBodyGyroJerkMag-mean() aggregated by ActivityID, ActivityName and Subject.
 
 ###FrequencyBodyBodyGyroscopeJerkMagnitureStandardDeviation
+Variable: FrequencyBodyBodyGyroscopeJerkMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable fBodyBodyGyroJerkMag-std() aggregated by ActivityID, ActivityName and Subject.
