@@ -9,9 +9,7 @@ mean value of 66 variables extracted from this dataset.
 ## How to use
 In order to successfully execute the script, perform the following steps:
  
-* Download the dataset UCI HAR from the following link: 
-
-https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
+* Download the dataset UCI HAR from the following link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 * Unzip the files in a working folder in your file system.
 * Add the run_analysis.R script in the root folder where you placed the unzipped dataset
 * Start R studio and change the working directory to the root directory where you placed the 
