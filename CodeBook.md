@@ -15,7 +15,6 @@ Allowable values: WALKING
 , WALKING_UPSTAIRS, WALKING_DOWNSTAIRS
 , SITTING
 , STANDING, LAYING
-
 Comments: Common name of the Activity
 
 ###Subject
@@ -71,22 +70,49 @@ Variable type: numeric
 Comments: Mean of the values from the variable tGravityAcc-mean()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerStandardDeviationX 
+Variable: TimeGravityAccelerometerStandardDeviationX
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAcc-std()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerStandardDeviationY 
+Variable: TimeGravityAccelerometerStandardDeviationY
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAcc-std()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerStandardDeviationZ 
+Variable: TimeGravityAccelerometerStandardDeviationZ
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAcc-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerJerkMeanX 
+Variable: TimeBodyAccelerometerJerkMeanX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerk-mean()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerJerkMeanY 
+Variable: TimeBodyAccelerometerJerkMeanY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerk-mean()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerJerkMeanZ 
+Variable: TimeBodyAccelerometerJerkMeanZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerk-mean()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerJerkStandardDeviationX 
+Variable: TimeBodyAccelerometerJerkStandardDeviationX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerk-std()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerJerkStandardDeviationY 
+Variable: TimeBodyAccelerometerJerkStandardDeviationY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerk-std()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerJerkStandardDeviationZ 
+Variable: TimeBodyAccelerometerJerkStandardDeviationZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerk-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeMeanX 
 
