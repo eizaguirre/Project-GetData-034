@@ -56,10 +56,19 @@ Variable type: numeric
 Comments: Mean of the values from the variable tBodyAcc-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerMeanX 
+Variable: TimeGravityAccelerometerMeanX
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAcc-mean()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerMeanY 
+Variable: TimeGravityAccelerometerMeanY
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAcc-mean()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerMeanZ 
+Variable: TimeGravityAccelerometerMeanZ
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAcc-mean()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerStandardDeviationX 
 
