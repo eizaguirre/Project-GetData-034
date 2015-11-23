@@ -20,8 +20,6 @@
 ###Subject
 * Variable: Subject
 * Variable type: Integer
-* Allowable values: 1-30
-
 * Comments: Numeric Identifier of the volunteer.
 
 ###TimeBodyAccelerometerMeanX 
