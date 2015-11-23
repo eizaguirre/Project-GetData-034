@@ -30,16 +30,30 @@ Variable: TimeBodyAccelerometerMeanX
 Variable type: numeric
 Comments: Mean of the values from the variable tBodyAcc-mean()-x aggregated by ActivityID, ActivityName and Subject.
 
-
 ###TimeBodyAccelerometerMeanY 
+Variable: TimeBodyAccelerometerMeanY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAcc-mean()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerMeanZ 
+Variable: TimeBodyAccelerometerMeanZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAcc-mean()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerStandardDeviationX 
+Variable: TimeBodyAccelerometerStandardDeviationX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAcc-std()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerStandardDeviationY 
+Variable: TimeBodyAccelerometerStandardDeviationY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAcc-std()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerStandardDeviationZ 
+Variable: TimeBodyAccelerometerStandardDeviationZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAcc-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerMeanX 
 
