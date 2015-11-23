@@ -38,7 +38,7 @@ By using the data in the features.txt file, the script assigns new names to the 
 
 The script binds the data from the subject, the activities frame (y) and the variables frame (x) in a single object.
 
-The script filters the dataframe and reduces the columns. The script keeps just the variables that are related to the mean and the standard deviation of the base dataset. This shrinks the dataframe to 66 variables from the original x dataset, plus the variables ActivityID, ActivityName and the Subject (69 variables in total).
+The script filters the dataframe and reduces the columns. The script keeps just the variables that are related to the mean and the standard deviation of the base dataset (meanFreq is excluded). This shrinks the dataframe to 66 variables from the original x dataset, plus the variables ActivityID, ActivityName and the Subject (69 variables in total).
 
 The script then changes the names of the variables to descriptive variable names.
 
