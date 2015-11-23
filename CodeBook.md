@@ -115,42 +115,104 @@ Variable type: numeric
 Comments: Mean of the values from the variable tBodyAccJerk-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeMeanX 
+Variable: TimeBodyGyroscopeMeanX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyro-mean()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeMeanY 
+Variable: TimeBodyGyroscopeMeanY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyro-mean()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeMeanZ 
+Variable: TimeBodyGyroscopeMeanZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyro-mean()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeStandardDeviationX 
+Variable: TimeBodyGyroscopeStandardDeviationX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyro-std()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeStandardDeviationY 
+Variable: TimeBodyGyroscopeStandardDeviationY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyro-std()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeStandardDeviationZ 
+Variable: TimeBodyGyroscopeStandardDeviationZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyro-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeJerkMeanX 
+Variable: TimeBodyGyroscopeJerkMeanX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroJerk-mean()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeJerkMeanY 
+Variable: TimeBodyGyroscopeJerkMeanY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroJerk-mean()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeJerkMeanZ 
+Variable: TimeBodyGyroscopeJerkMeanZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroJerk-mean()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeJerkStandardDeviationX 
+Variable: TimeBodyGyroscopeJerkStandardDeviationX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroJerk-std()-x aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeJerkStandardDeviationY 
+Variable: TimeBodyGyroscopeJerkStandardDeviationY
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroJerk-std()-y aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeJerkStandardDeviationZ 
+Variable: TimeBodyGyroscopeJerkStandardDeviationZ
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroJerk-std()-z aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerMagnitureMean 
+Variable: TimeBodyAccelerometerMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccMag-mean() aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerMagnitureStandardDeviation 
+Variable: TimeBodyAccelerometerMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccMag-std() aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeGravityAccelerometerMagnitureMean 
+Variable: TimeGravityAccelerometerMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAccMag-mean() aggregated by ActivityID, ActivityName and Subject.
+
 ###TimeGravityAccelerometerMagnitureStandardDeviation 
+Variable: TimeGravityAccelerometerMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable tGravityAccMag-std() aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyAccelerometerJerkMagnitureMean 
+Variable: TimeBodyAccelerometerJerkMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerkMag-mean() aggregated by ActivityID, ActivityName and Subject.
+
 ###TimeBodyAccelerometerJerkMagnitureStandardDeviation 
+Variable: TimeBodyAccelerometerJerkMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAccJerkMag-std() aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeMagnitureMean 
+Variable: TimeBodyGyroscopeMagnitureMean
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroMag-mean() aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeMagnitureStandardDeviation 
+Variable: TimeBodyGyroscopeMagnitureStandardDeviation
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyGyroMag-std() aggregated by ActivityID, ActivityName and Subject.
 
 ###TimeBodyGyroscopeJerkMagnitureMean 
 
@@ -175,7 +237,9 @@ Comments: Mean of the values from the variable tBodyAccJerk-std()-z aggregated b
 ###FrequencyBodyAccelerometerJerkMeanZ 
 
 ###FrequencyBodyAccelerometerJerkStandardDeviationX 
+
 ###FrequencyBodyAccelerometerJerkStandardDeviationY 
+
 ###FrequencyBodyAccelerometerJerkStandardDeviationZ 
 
 ###FrequencyBodyGyroscopeMeanX 
@@ -191,12 +255,15 @@ Comments: Mean of the values from the variable tBodyAccJerk-std()-z aggregated b
 ###FrequencyBodyGyroscopeStandardDeviationZ 
 
 ###FrequencyBodyAccelerometerMagnitureMean 
+
 ###FrequencyBodyAccelerometerMagnitureStandardDeviation 
+
 ###FrequencyBodyBodyAccelerometerJerkMagnitureMean 
 
 ###FrequencyBodyBodyAccelerometerJerkMagnitureStandardDeviation 
 
 ###FrequencyBodyBodyGyroscopeMagnitureMean 
+
 ###FrequencyBodyBodyGyroscopeMagnitureStandardDeviation 
 
 ###FrequencyBodyBodyGyroscopeJerkMagnitureMean 
