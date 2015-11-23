@@ -2,13 +2,13 @@
 ## November 22, 2015
 ## Codebook prepared by Erick Izaguirre based on dataset downloaded from the class Getting and Cleaning Data from the John Hopkins Bloomberg School of Public Health.
 
-###ActivityID 
+###ActivityID
 Variable: ActivityID
 Variable type: Integer
 Allowable values: 1-6
 Comments: Numeric identifier of the Activity
 
-###ActivityName 
+###ActivityName
 Variable: ActivityName
 Variable type: Factor
 Allowable values: WALKING
@@ -18,15 +18,18 @@ Allowable values: WALKING
 
 Comments: Common name of the Activity
 
-###Subject 
+###Subject
 Variable: Subject
 Variable type: Integer
 Allowable values: 1-30
 
 Comments: Numeric Identifier of the volunteer.
 
-
 ###TimeBodyAccelerometerMeanX 
+Variable: TimeBodyAccelerometerMeanX
+Variable type: numeric
+Comments: Mean of the values from the variable tBodyAcc-mean()-x aggregated by ActivityID, ActivityName and Subject.
+
 
 ###TimeBodyAccelerometerMeanY 
 
